@@ -15,4 +15,5 @@ function todoList() {
 	newListItem.appendChild(newUserName)
 	newListItem.appendChild(newComment)
 	document.getElementById("commentList").appendChild(newListItem)
+	
 }
